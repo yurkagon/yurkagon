@@ -64,7 +64,7 @@
 <h4>Pinned</h4>
 
 <a href="https://github.com/yurkagon/ReactCasting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkagon&repo=ReactCasting&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkagon&repo=ReactCasting&theme=buefy" style="margin-right: 20px"/>
 </a>
 <a href="https://github.com/yurkagon/Doom-Nukem-CSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkagon&repo=Doom-Nukem-CSS&theme=buefy" />
