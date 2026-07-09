@@ -3,7 +3,8 @@
     <img src="static/images/smile.gif" alt="😎" width="50" height="50" style="position: relative; top:12px"> Hey! I'm Yurii
 </h1>
 
-<p>Welcome to my profile! </br> Fullstack developer from <b>Lviv, Ukraine 🇺🇦 </b>!
+<p>Welcome to my profile! </br> Fullstack developer from <b>Lviv, Ukraine 🇺🇦 </b>!</p>
+<h3>🌐 Check out my website: <a href="https://yuragon.dev/">yuragon.dev</a></h3>
 
 <!--Tech stack-->
 <h3>Things I code with</h3>
@@ -103,7 +104,7 @@
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://linktr.ee/yuragon" target="blank"><img align="center" src="static/icons/linktree.png" alt="Linktree" height="30" width="30" /></a>
+<a href="https://yuragon.dev/links" target="blank"><img align="center" src="static/icons/links.svg" alt="Links" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/yurii-khvyshchuk-aa8b07154/" target="blank"><img align="center" src="static/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9201853/yuragon" target="blank"><img align="center" src="static/icons/stack-overflow.svg" alt="stack-overflow" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yurkagon/" target="blank"><img align="center" src="static/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
