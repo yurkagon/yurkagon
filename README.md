@@ -38,6 +38,7 @@
   <img alt="Eslint" src="https://img.shields.io/badge/-ESLint-4A32C3?style=flat-square&logo=ESLint&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-292961?style=flat-square&logo=gitlab&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-2480F7?style=flat-square&logo=jira&logoColor=white"/>
@@ -53,15 +54,16 @@
 
 <!--About-->
 <img align="right" src="https://github-stats-alpha.vercel.app/api?username=yurkagon&bc=dbd5d5" />
-<h2>👾  About Me</h2>
+<h3>👾  About Me</h3>
 <ul>
   <li>👨‍💻 Currently working as Software Engineer at <a href="https://usoftware.co/">United Software Solutions</a></li>
-  <li>🛠  Coding since 2014 with <!--EXPERIENCE_YEARS-->8+<!--/EXPERIENCE_YEARS--> years of experience in enterprise wide software development</li>
+  <li>🛠  Coding since 2014 with 8+ years of experience in enterprise wide software development</li>
   <li>💬 Ask me about anything related to <strong>JavaScript/Typescript, React, NodeJS</strong> etc</li>
+  <li>✍️ Publishing deep-dives on my <a href="https://yuragon.dev/blog">tech blog</a></li>
   <li>💻 Love exploring new tech stack and building cool stuffs</li>
   <li>📲 Love for science and innovation</li>
   <li>🎮 Love VR, especially <a href="https://scoresaber.com/u/76561198106804666" target="blank">Beat Saber 🤺</a></li>
-  <li>🐶 Love pets</li>
+  <li>🐶 Love dogs</li>
   <li>📙 Check out my <a href="CV/Yurii Khvyshchuk CV - Senior Full Stack JavaScript Engineer.pdf">CV</a></li>
 </ul>
 
