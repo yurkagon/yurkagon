@@ -58,12 +58,13 @@
 <ul>
   <li>👨‍💻 Currently working as Software Engineer at <a href="https://usoftware.co/">United Software Solutions</a></li>
   <li>🛠  Coding since 2014 with 8+ years of experience in enterprise wide software development</li>
-  <li>💬 Ask me about anything related to <strong>JavaScript/Typescript, React, NodeJS</strong> etc</li>
+  <li>💬 Ask me about anything related to <strong>Typescript, NodeJS, React</strong> etc</li>
   <li>✍️ Publishing deep-dives on my <a href="https://yuragon.dev/blog">tech blog</a></li>
   <li>💻 Love exploring new tech stack and building cool stuffs</li>
   <li>📲 Love for science and innovation</li>
   <li>🎮 Love VR, especially <a href="https://scoresaber.com/u/76561198106804666" target="blank">Beat Saber 🤺</a></li>
   <li>🐶 Love dogs</li>
+  <li>🧑‍💻 More about me on my <a href="https://yuragon.dev/about">about page</a></li>
   <li>📙 Check out my <a href="CV/Yurii Khvyshchuk CV - Senior Full Stack JavaScript Engineer.pdf">CV</a></li>
 </ul>
 
