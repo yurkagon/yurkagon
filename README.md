@@ -13,6 +13,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-0A7EA4?style=flat-square&logo=react&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -25,10 +26,11 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Mobx" src="https://img.shields.io/badge/-Mobx-025193?style=flat-square&logo=mobx&logoColor" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="TanStack Query" src="https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/>
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-CC6699?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C23C17?style=flat-square&logo=jest&logoColor=white"/>
