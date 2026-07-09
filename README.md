@@ -55,7 +55,7 @@
 
 <!--Detailed github stats-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yurkagon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurkagon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/stats-organization/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api?username=yurkagon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yurkagon's github stats" /></a> | <a href="https://github.com/stats-organization/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yurkagon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!-- --- -->
@@ -64,10 +64,10 @@
 <h4>Pinned</h4>
 
 <a href="https://github.com/yurkagon/ReactCasting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkagon&repo=ReactCasting&theme=buefy" style="margin-right: 20px"/>
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=yurkagon&repo=ReactCasting&theme=buefy" style="margin-right: 20px"/>
 </a>
 <a href="https://github.com/yurkagon/Doom-Nukem-CSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yurkagon&repo=Doom-Nukem-CSS&theme=buefy" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=yurkagon&repo=Doom-Nukem-CSS&theme=buefy" />
 </a>
 
 <!--Snake-->
